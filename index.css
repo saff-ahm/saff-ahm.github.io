@@ -74,8 +74,8 @@ textarea:not([rows]) {
 .tabs {
   max-width: ;
   min-height: ;
-  border: 1px solid #ececec;
-  border-radius: 0.5rem;
+  border: ;
+  border-radius:;
   color: black;
 }
 
@@ -89,7 +89,7 @@ div[role="tablist"] {
 }
 
 .p{
-  font-size: 20px;
+  font-size: 15px;
 }
 
 button[role="tab"] {
@@ -97,13 +97,13 @@ button[role="tab"] {
   background: #8DAB7F;
   border: none;
   border-radius: 0.25rem;
-  padding: 0.75rem 1.25rem;
+  padding: 0.6rem 1.25rem;
   cursor: pointer;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 button[role="tab"][aria-selected="true"] {
-  background-color: #ffffff;
+  background-color: #ffff;
   color: #07409f;
 }
 
@@ -115,16 +115,18 @@ div[role="tabpanel"] {
   padding: 1rem;
 }
 *{
-  background-color: #8DAB7F;
+  background-color: #DADD98;
+  border-style: solid;
+  border-width: 2.5px  ;  
 }
  
 .Dinosaurs{
   text-align: center;
-  font-size: 70px;
+  font-size: 30px;
   width: ;
   border: 5px solid #6DA34D;
-  padding: 5px;
-  margin: 5px;
+  padding: 2.5px;
+  margin: 2.5px;
   text-decoration-line: underline;
   text-decoration-color:#6DA34D;
 }
@@ -132,25 +134,18 @@ div[role="tabpanel"] {
 .Dinosaur{
   text-align: center;
   width: ;
-  border: 5px solid #6DA34D;
-  padding: 5px;
+  border: 2.5px solid #6DA34D;
+  padding: 2.5px;
   margin: 5px;
 }
+
+
  
-.Triceratop{
-  width: 250px;
-  border: 5px solid #4C320A;
-  padding: 5px;
-  margin: 5px;
-  font-size: 55px;
-  
-}
 .Triceratops{
   width: ;
   border: 5px solid #4C320A;
   padding: 5px;
   margin: 5px;
-  font-size: 25px;
 }
  
 .T-rex{
@@ -160,14 +155,7 @@ div[role="tabpanel"] {
   margin: 5px;
 }
  
-.Alamosaurus{
-  width: ;
-  border: 5px solid #4C320A;
-  padding: 5px;
-  margin: 5px;
-}
- 
-.Spinosaurus{
+ .Spinosaurus{
   width: ;
   border: 5px solid #4C320A;
   padding: 5px;
@@ -188,7 +176,7 @@ div[role="tabpanel"] {
   margin: 5px;    
 }
  
-.Ankylosaurus{
+.Alamosaurus{
   width: ;
   border: 5px solid #4C320A;
   padding: 5px;
@@ -201,22 +189,8 @@ div[role="tabpanel"] {
   padding: 5px;
   margin: 5px;    
 }
- 
-.Diplodocus{
-  width: ;
-  border: 5px solid #4C320A;
-  padding: 5px;
-  margin: 5px;     
-}
- 
-.Allosaurus{
-  width: ;
-  border: 5px solid #4C320A;
-  padding: 5px;
-  margin: 5px;  
-}
- 
-.Pachycephalosaurus{
+
+ .titanosaurus{
   width: ;
   border: 5px solid #4C320A;
   padding: 5px;
@@ -234,11 +208,27 @@ button{
   font-size: 16px;
 }
  
-.paragraph{
-  width: 250px;
-  border: 5px solid #4C320A;
-  padding: 5px;
-  margin: 5px; 
+
+.font{
   font-size: 20px;
-}*/
+}
+
+.option{
+  font-size: 20px;
+  text-align: center;
+  width: ;
+  border: 5px solid #6DA34D;
+  padding: 2.5px;
+  margin: 2.5px;
+  text-decoration-color:#6DA34D;}
+
+#question{
+  font-size: 20px;
+  text-align: center;
+  width: ;
+  border: 5px solid #6DA34D;
+  padding: 2.5px;
+  margin: 2.5px;
+  text-decoration-color:#6DA34D;
+}
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
